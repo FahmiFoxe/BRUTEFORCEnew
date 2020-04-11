@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 ##############################
-# AUTHOR : RISKI DARMAWAN    #
+# AUTHOR : FOXE TEAM  #
 # DIBUAT : 20 JANUARI 2019   #
 # FUNGSI : BRUTE FORCE FB    #
 ##############################
